@@ -1,0 +1,201 @@
+#!/usr/bin/env fontforge
+
+# Create new font
+New()
+
+# Set font properties
+SetFontNames("MyCalligraphyFont", "MyCalligraphyFont", "My Calligraphy Font")
+
+# Define file mappings
+
+# Import a.svg
+if (FileAccess("C:/Users/AdityaPatidar/Documents/Calligraphy_Approaches/output_class_2_svg/a.svg", 0) == 0)
+    Select(0x61)
+    Import("C:/Users/AdityaPatidar/Documents/Calligraphy_Approaches/output_class_2_svg/a.svg")
+    SetLBearing(50)
+    SetRBearing(50)
+    Print("Imported a.svg")
+else
+    Print("File not found: a.svg")
+endif
+
+# Import b.svg
+if (FileAccess("C:/Users/AdityaPatidar/Documents/Calligraphy_Approaches/output_class_2_svg/b.svg", 0) == 0)
+    Select(0x62)
+    Import("C:/Users/AdityaPatidar/Documents/Calligraphy_Approaches/output_class_2_svg/b.svg")
+    SetLBearing(50)
+    SetRBearing(50)
+    Print("Imported b.svg")
+else
+    Print("File not found: b.svg")
+endif
+
+# Import d.svg
+if (FileAccess("C:/Users/AdityaPatidar/Documents/Calligraphy_Approaches/output_class_2_svg/d.svg", 0) == 0)
+    Select(0x64)
+    Import("C:/Users/AdityaPatidar/Documents/Calligraphy_Approaches/output_class_2_svg/d.svg")
+    SetLBearing(50)
+    SetRBearing(50)
+    Print("Imported d.svg")
+else
+    Print("File not found: d.svg")
+endif
+
+# Import e.svg
+if (FileAccess("C:/Users/AdityaPatidar/Documents/Calligraphy_Approaches/output_class_2_svg/e.svg", 0) == 0)
+    Select(0x65)
+    Import("C:/Users/AdityaPatidar/Documents/Calligraphy_Approaches/output_class_2_svg/e.svg")
+    SetLBearing(50)
+    SetRBearing(50)
+    Print("Imported e.svg")
+else
+    Print("File not found: e.svg")
+endif
+
+# Import k.svg
+if (FileAccess("C:/Users/AdityaPatidar/Documents/Calligraphy_Approaches/output_class_2_svg/k.svg", 0) == 0)
+    Select(0x6b)
+    Import("C:/Users/AdityaPatidar/Documents/Calligraphy_Approaches/output_class_2_svg/k.svg")
+    SetLBearing(50)
+    SetRBearing(50)
+    Print("Imported k.svg")
+else
+    Print("File not found: k.svg")
+endif
+
+# Import s.svg
+if (FileAccess("C:/Users/AdityaPatidar/Documents/Calligraphy_Approaches/output_class_2_svg/s.svg", 0) == 0)
+    Select(0x73)
+    Import("C:/Users/AdityaPatidar/Documents/Calligraphy_Approaches/output_class_2_svg/s.svg")
+    SetLBearing(50)
+    SetRBearing(50)
+    Print("Imported s.svg")
+else
+    Print("File not found: s.svg")
+endif
+
+# Import u.svg
+if (FileAccess("C:/Users/AdityaPatidar/Documents/Calligraphy_Approaches/output_class_2_svg/u.svg", 0) == 0)
+    Select(0x75)
+    Import("C:/Users/AdityaPatidar/Documents/Calligraphy_Approaches/output_class_2_svg/u.svg")
+    SetLBearing(50)
+    SetRBearing(50)
+    Print("Imported u.svg")
+else
+    Print("File not found: u.svg")
+endif
+
+# Import v.svg
+if (FileAccess("C:/Users/AdityaPatidar/Documents/Calligraphy_Approaches/output_class_2_svg/v.svg", 0) == 0)
+    Select(0x76)
+    Import("C:/Users/AdityaPatidar/Documents/Calligraphy_Approaches/output_class_2_svg/v.svg")
+    SetLBearing(50)
+    SetRBearing(50)
+    Print("Imported v.svg")
+else
+    Print("File not found: v.svg")
+endif
+
+# Import w.svg
+if (FileAccess("C:/Users/AdityaPatidar/Documents/Calligraphy_Approaches/output_class_2_svg/w.svg", 0) == 0)
+    Select(0x77)
+    Import("C:/Users/AdityaPatidar/Documents/Calligraphy_Approaches/output_class_2_svg/w.svg")
+    SetLBearing(50)
+    SetRBearing(50)
+    Print("Imported w.svg")
+else
+    Print("File not found: w.svg")
+endif
+
+# Import capital_A.svg
+if (FileAccess("C:/Users/AdityaPatidar/Documents/Calligraphy_Approaches/output_class_2_svg/capital_A.svg", 0) == 0)
+    Select(0x41)
+    Import("C:/Users/AdityaPatidar/Documents/Calligraphy_Approaches/output_class_2_svg/capital_A.svg")
+    SetLBearing(50)
+    SetRBearing(50)
+    Print("Imported capital_A.svg")
+else
+    Print("File not found: capital_A.svg")
+endif
+
+# Import capital_E.svg
+if (FileAccess("C:/Users/AdityaPatidar/Documents/Calligraphy_Approaches/output_class_2_svg/capital_E.svg", 0) == 0)
+    Select(0x45)
+    Import("C:/Users/AdityaPatidar/Documents/Calligraphy_Approaches/output_class_2_svg/capital_E.svg")
+    SetLBearing(50)
+    SetRBearing(50)
+    Print("Imported capital_E.svg")
+else
+    Print("File not found: capital_E.svg")
+endif
+
+# Import F.svg
+if (FileAccess("C:/Users/AdityaPatidar/Documents/Calligraphy_Approaches/output_class_2_svg/F.svg", 0) == 0)
+    Select(0x46)
+    Import("C:/Users/AdityaPatidar/Documents/Calligraphy_Approaches/output_class_2_svg/F.svg")
+    SetLBearing(50)
+    SetRBearing(50)
+    Print("Imported F.svg")
+else
+    Print("File not found: F.svg")
+endif
+
+# Import I.svg
+if (FileAccess("C:/Users/AdityaPatidar/Documents/Calligraphy_Approaches/output_class_2_svg/I.svg", 0) == 0)
+    Select(0x49)
+    Import("C:/Users/AdityaPatidar/Documents/Calligraphy_Approaches/output_class_2_svg/I.svg")
+    SetLBearing(50)
+    SetRBearing(50)
+    Print("Imported I.svg")
+else
+    Print("File not found: I.svg")
+endif
+
+# Import L.svg
+if (FileAccess("C:/Users/AdityaPatidar/Documents/Calligraphy_Approaches/output_class_2_svg/L.svg", 0) == 0)
+    Select(0x4c)
+    Import("C:/Users/AdityaPatidar/Documents/Calligraphy_Approaches/output_class_2_svg/L.svg")
+    SetLBearing(50)
+    SetRBearing(50)
+    Print("Imported L.svg")
+else
+    Print("File not found: L.svg")
+endif
+
+# Import M.svg
+if (FileAccess("C:/Users/AdityaPatidar/Documents/Calligraphy_Approaches/output_class_2_svg/M.svg", 0) == 0)
+    Select(0x4d)
+    Import("C:/Users/AdityaPatidar/Documents/Calligraphy_Approaches/output_class_2_svg/M.svg")
+    SetLBearing(50)
+    SetRBearing(50)
+    Print("Imported M.svg")
+else
+    Print("File not found: M.svg")
+endif
+
+# Import N.svg
+if (FileAccess("C:/Users/AdityaPatidar/Documents/Calligraphy_Approaches/output_class_2_svg/N.svg", 0) == 0)
+    Select(0x4e)
+    Import("C:/Users/AdityaPatidar/Documents/Calligraphy_Approaches/output_class_2_svg/N.svg")
+    SetLBearing(50)
+    SetRBearing(50)
+    Print("Imported N.svg")
+else
+    Print("File not found: N.svg")
+endif
+
+# Import &.svg
+if (FileAccess("C:/Users/AdityaPatidar/Documents/Calligraphy_Approaches/output_class_2_svg/&.svg", 0) == 0)
+    Select(0x26)
+    Import("C:/Users/AdityaPatidar/Documents/Calligraphy_Approaches/output_class_2_svg/&.svg")
+    SetLBearing(50)
+    SetRBearing(50)
+    Print("Imported &.svg")
+else
+    Print("File not found: &.svg")
+endif
+
+# Generate font
+Generate("MyCalligraphyFont.ttf")
+Print("Font generated successfully!")
+Quit()

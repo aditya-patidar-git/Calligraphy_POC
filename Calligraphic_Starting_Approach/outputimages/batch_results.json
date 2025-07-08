@@ -1,0 +1,640 @@
+{
+  "total_images_processed": 11,
+  "results": [
+    {
+      "image": "input\\image_1.jpg",
+      "characters_extracted": 3,
+      "characters": [
+        {
+          "index": 1,
+          "binary_path": "outputimages\\image_1\\char_1_binary.png",
+          "original_path": "outputimages\\image_1\\char_1_original.png",
+          "clean_path": "outputimages\\image_1\\char_1_clean.png",
+          "bbox": [
+            639,
+            102,
+            667,
+            143
+          ],
+          "confidence": 1.0,
+          "area": 260,
+          "aspect_ratio": 1.7222222222222223,
+          "centroid": [
+            650.7615384615384,
+            121.46153846153847
+          ]
+        },
+        {
+          "index": 2,
+          "binary_path": "outputimages\\image_1\\char_2_binary.png",
+          "original_path": "outputimages\\image_1\\char_2_original.png",
+          "clean_path": "outputimages\\image_1\\char_2_clean.png",
+          "bbox": [
+            111,
+            104,
+            152,
+            149
+          ],
+          "confidence": 1.0,
+          "area": 458,
+          "aspect_ratio": 1.1290322580645162,
+          "centroid": [
+            129.7292576419214,
+            127.00218340611353
+          ]
+        },
+        {
+          "index": 3,
+          "binary_path": "outputimages\\image_1\\char_3_binary.png",
+          "original_path": "outputimages\\image_1\\char_3_original.png",
+          "clean_path": "outputimages\\image_1\\char_3_clean.png",
+          "bbox": [
+            550,
+            172,
+            597,
+            288
+          ],
+          "confidence": 1.0,
+          "area": 347,
+          "aspect_ratio": 2.864864864864865,
+          "centroid": [
+            569.792507204611,
+            229.77809798270894
+          ]
+        }
+      ]
+    },
+    {
+      "image": "input\\image_10.png",
+      "characters_extracted": 3,
+      "characters": [
+        {
+          "index": 1,
+          "binary_path": "outputimages\\image_10\\char_1_binary.png",
+          "original_path": "outputimages\\image_10\\char_1_original.png",
+          "clean_path": "outputimages\\image_10\\char_1_clean.png",
+          "bbox": [
+            601,
+            72,
+            849,
+            258
+          ],
+          "confidence": 1.0,
+          "area": 4230,
+          "aspect_ratio": 0.7394957983193278,
+          "centroid": [
+            766.1004728132388,
+            147.53924349881797
+          ]
+        },
+        {
+          "index": 2,
+          "binary_path": "outputimages\\image_10\\char_2_binary.png",
+          "original_path": "outputimages\\image_10\\char_2_original.png",
+          "clean_path": "outputimages\\image_10\\char_2_clean.png",
+          "bbox": [
+            129,
+            116,
+            200,
+            176
+          ],
+          "confidence": 1.0,
+          "area": 607,
+          "aspect_ratio": 0.819672131147541,
+          "centroid": [
+            167.54200988467875,
+            153.3673805601318
+          ]
+        },
+        {
+          "index": 3,
+          "binary_path": "outputimages\\image_10\\char_3_binary.png",
+          "original_path": "outputimages\\image_10\\char_3_original.png",
+          "clean_path": "outputimages\\image_10\\char_3_clean.png",
+          "bbox": [
+            829,
+            119,
+            906,
+            221
+          ],
+          "confidence": 1.0,
+          "area": 1230,
+          "aspect_ratio": 1.373134328358209,
+          "centroid": [
+            866.6308943089431,
+            167.41138211382113
+          ]
+        }
+      ]
+    },
+    {
+      "image": "input\\image_2.png",
+      "characters_extracted": 3,
+      "characters": [
+        {
+          "index": 1,
+          "binary_path": "outputimages\\image_2\\char_1_binary.png",
+          "original_path": "outputimages\\image_2\\char_1_original.png",
+          "clean_path": "outputimages\\image_2\\char_1_clean.png",
+          "bbox": [
+            283,
+            147,
+            403,
+            270
+          ],
+          "confidence": 1.0,
+          "area": 2377,
+          "aspect_ratio": 1.0272727272727273,
+          "centroid": [
+            340.96466133782076,
+            215.896508203618
+          ]
+        },
+        {
+          "index": 2,
+          "binary_path": "outputimages\\image_2\\char_2_binary.png",
+          "original_path": "outputimages\\image_2\\char_2_original.png",
+          "clean_path": "outputimages\\image_2\\char_2_clean.png",
+          "bbox": [
+            208,
+            180,
+            294,
+            271
+          ],
+          "confidence": 1.0,
+          "area": 1813,
+          "aspect_ratio": 1.0657894736842106,
+          "centroid": [
+            251.51130722559293,
+            224.0264754550469
+          ]
+        },
+        {
+          "index": 3,
+          "binary_path": "outputimages\\image_2\\char_3_binary.png",
+          "original_path": "outputimages\\image_2\\char_3_original.png",
+          "clean_path": "outputimages\\image_2\\char_3_clean.png",
+          "bbox": [
+            147,
+            181,
+            199,
+            250
+          ],
+          "confidence": 1.0,
+          "area": 747,
+          "aspect_ratio": 1.4047619047619047,
+          "centroid": [
+            168.02945113788488,
+            217.3467202141901
+          ]
+        }
+      ]
+    },
+    {
+      "image": "input\\image_3.jpg",
+      "characters_extracted": 0,
+      "characters": []
+    },
+    {
+      "image": "input\\image_4.png",
+      "characters_extracted": 3,
+      "characters": [
+        {
+          "index": 1,
+          "binary_path": "outputimages\\image_4\\char_1_binary.png",
+          "original_path": "outputimages\\image_4\\char_1_original.png",
+          "clean_path": "outputimages\\image_4\\char_1_clean.png",
+          "bbox": [
+            520,
+            178,
+            584,
+            261
+          ],
+          "confidence": 1.0,
+          "area": 1205,
+          "aspect_ratio": 1.3518518518518519,
+          "centroid": [
+            548.5294605809129,
+            215.32946058091287
+          ]
+        },
+        {
+          "index": 2,
+          "binary_path": "outputimages\\image_4\\char_2_binary.png",
+          "original_path": "outputimages\\image_4\\char_2_original.png",
+          "clean_path": "outputimages\\image_4\\char_2_clean.png",
+          "bbox": [
+            639,
+            178,
+            667,
+            226
+          ],
+          "confidence": 1.0,
+          "area": 289,
+          "aspect_ratio": 2.111111111111111,
+          "centroid": [
+            652.7128027681661,
+            201.21107266435988
+          ]
+        },
+        {
+          "index": 3,
+          "binary_path": "outputimages\\image_4\\char_3_binary.png",
+          "original_path": "outputimages\\image_4\\char_3_original.png",
+          "clean_path": "outputimages\\image_4\\char_3_clean.png",
+          "bbox": [
+            616,
+            184,
+            645,
+            231
+          ],
+          "confidence": 1.0,
+          "area": 280,
+          "aspect_ratio": 1.9473684210526316,
+          "centroid": [
+            630.1571428571428,
+            205.08214285714286
+          ]
+        }
+      ]
+    },
+    {
+      "image": "input\\image_5.jpg",
+      "characters_extracted": 3,
+      "characters": [
+        {
+          "index": 1,
+          "binary_path": "outputimages\\image_5\\char_1_binary.png",
+          "original_path": "outputimages\\image_5\\char_1_original.png",
+          "clean_path": "outputimages\\image_5\\char_1_clean.png",
+          "bbox": [
+            152,
+            116,
+            214,
+            176
+          ],
+          "confidence": 1.0,
+          "area": 635,
+          "aspect_ratio": 0.9615384615384616,
+          "centroid": [
+            183.4251968503937,
+            146.76692913385827
+          ]
+        },
+        {
+          "index": 2,
+          "binary_path": "outputimages\\image_5\\char_2_binary.png",
+          "original_path": "outputimages\\image_5\\char_2_original.png",
+          "clean_path": "outputimages\\image_5\\char_2_clean.png",
+          "bbox": [
+            314,
+            122,
+            355,
+            185
+          ],
+          "confidence": 1.0,
+          "area": 971,
+          "aspect_ratio": 1.7096774193548387,
+          "centroid": [
+            333.1699279093718,
+            148.42636457260556
+          ]
+        },
+        {
+          "index": 3,
+          "binary_path": "outputimages\\image_5\\char_3_binary.png",
+          "original_path": "outputimages\\image_5\\char_3_original.png",
+          "clean_path": "outputimages\\image_5\\char_3_clean.png",
+          "bbox": [
+            475,
+            198,
+            541,
+            269
+          ],
+          "confidence": 1.0,
+          "area": 1381,
+          "aspect_ratio": 1.0892857142857142,
+          "centroid": [
+            508.4018826937002,
+            231.5394641564084
+          ]
+        }
+      ]
+    },
+    {
+      "image": "input\\image_6.png",
+      "characters_extracted": 3,
+      "characters": [
+        {
+          "index": 1,
+          "binary_path": "outputimages\\image_6\\char_1_binary.png",
+          "original_path": "outputimages\\image_6\\char_1_original.png",
+          "clean_path": "outputimages\\image_6\\char_1_clean.png",
+          "bbox": [
+            565,
+            241,
+            601,
+            295
+          ],
+          "confidence": 1.0,
+          "area": 580,
+          "aspect_ratio": 1.6923076923076923,
+          "centroid": [
+            583.1034482758621,
+            266.1448275862069
+          ]
+        },
+        {
+          "index": 2,
+          "binary_path": "outputimages\\image_6\\char_2_binary.png",
+          "original_path": "outputimages\\image_6\\char_2_original.png",
+          "clean_path": "outputimages\\image_6\\char_2_clean.png",
+          "bbox": [
+            588,
+            242,
+            655,
+            298
+          ],
+          "confidence": 1.0,
+          "area": 1055,
+          "aspect_ratio": 0.8070175438596491,
+          "centroid": [
+            624.3744075829384,
+            269.32796208530806
+          ]
+        },
+        {
+          "index": 3,
+          "binary_path": "outputimages\\image_6\\char_3_binary.png",
+          "original_path": "outputimages\\image_6\\char_3_original.png",
+          "clean_path": "outputimages\\image_6\\char_3_clean.png",
+          "bbox": [
+            640,
+            251,
+            696,
+            315
+          ],
+          "confidence": 1.0,
+          "area": 911,
+          "aspect_ratio": 1.173913043478261,
+          "centroid": [
+            671.6037321624589,
+            284.63885839736554
+          ]
+        }
+      ]
+    },
+    {
+      "image": "input\\image_7.png",
+      "characters_extracted": 3,
+      "characters": [
+        {
+          "index": 1,
+          "binary_path": "outputimages\\image_7\\char_1_binary.png",
+          "original_path": "outputimages\\image_7\\char_1_original.png",
+          "clean_path": "outputimages\\image_7\\char_1_clean.png",
+          "bbox": [
+            987,
+            289,
+            1048,
+            327
+          ],
+          "confidence": 1.0,
+          "area": 639,
+          "aspect_ratio": 0.5490196078431373,
+          "centroid": [
+            1017.7073552425666,
+            310.17527386541474
+          ]
+        },
+        {
+          "index": 2,
+          "binary_path": "outputimages\\image_7\\char_2_binary.png",
+          "original_path": "outputimages\\image_7\\char_2_original.png",
+          "clean_path": "outputimages\\image_7\\char_2_clean.png",
+          "bbox": [
+            955,
+            295,
+            998,
+            329
+          ],
+          "confidence": 1.0,
+          "area": 378,
+          "aspect_ratio": 0.7272727272727273,
+          "centroid": [
+            976.0185185185185,
+            313.4047619047619
+          ]
+        },
+        {
+          "index": 3,
+          "binary_path": "outputimages\\image_7\\char_3_binary.png",
+          "original_path": "outputimages\\image_7\\char_3_original.png",
+          "clean_path": "outputimages\\image_7\\char_3_clean.png",
+          "bbox": [
+            971,
+            347,
+            1021,
+            378
+          ],
+          "confidence": 1.0,
+          "area": 507,
+          "aspect_ratio": 0.525,
+          "centroid": [
+            992.8145956607495,
+            360.8027613412229
+          ]
+        }
+      ]
+    },
+    {
+      "image": "input\\image_8.png",
+      "characters_extracted": 3,
+      "characters": [
+        {
+          "index": 1,
+          "binary_path": "outputimages\\image_8\\char_1_binary.png",
+          "original_path": "outputimages\\image_8\\char_1_original.png",
+          "clean_path": "outputimages\\image_8\\char_1_clean.png",
+          "bbox": [
+            831,
+            104,
+            952,
+            217
+          ],
+          "confidence": 1.0,
+          "area": 2270,
+          "aspect_ratio": 0.9279279279279279,
+          "centroid": [
+            899.7052863436123,
+            162.6660792951542
+          ]
+        },
+        {
+          "index": 2,
+          "binary_path": "outputimages\\image_8\\char_2_binary.png",
+          "original_path": "outputimages\\image_8\\char_2_original.png",
+          "clean_path": "outputimages\\image_8\\char_2_clean.png",
+          "bbox": [
+            725,
+            105,
+            793,
+            161
+          ],
+          "confidence": 1.0,
+          "area": 1411,
+          "aspect_ratio": 0.7931034482758621,
+          "centroid": [
+            753.3338058114812,
+            131.5846917080085
+          ]
+        },
+        {
+          "index": 3,
+          "binary_path": "outputimages\\image_8\\char_3_binary.png",
+          "original_path": "outputimages\\image_8\\char_3_original.png",
+          "clean_path": "outputimages\\image_8\\char_3_clean.png",
+          "bbox": [
+            951,
+            116,
+            994,
+            210
+          ],
+          "confidence": 1.0,
+          "area": 879,
+          "aspect_ratio": 2.5454545454545454,
+          "centroid": [
+            971.5858930602958,
+            165.44141069397043
+          ]
+        }
+      ]
+    },
+    {
+      "image": "input\\image_9.png",
+      "characters_extracted": 3,
+      "characters": [
+        {
+          "index": 1,
+          "binary_path": "outputimages\\image_9\\char_1_binary.png",
+          "original_path": "outputimages\\image_9\\char_1_original.png",
+          "clean_path": "outputimages\\image_9\\char_1_clean.png",
+          "bbox": [
+            725,
+            91,
+            770,
+            235
+          ],
+          "confidence": 1.0,
+          "area": 1093,
+          "aspect_ratio": 3.8285714285714287,
+          "centroid": [
+            743.9945105215005,
+            171.2131747483989
+          ]
+        },
+        {
+          "index": 2,
+          "binary_path": "outputimages\\image_9\\char_2_binary.png",
+          "original_path": "outputimages\\image_9\\char_2_original.png",
+          "clean_path": "outputimages\\image_9\\char_2_clean.png",
+          "bbox": [
+            347,
+            106,
+            575,
+            312
+          ],
+          "confidence": 1.0,
+          "area": 4000,
+          "aspect_ratio": 0.8990825688073395,
+          "centroid": [
+            457.83225,
+            201.2395
+          ]
+        },
+        {
+          "index": 3,
+          "binary_path": "outputimages\\image_9\\char_3_binary.png",
+          "original_path": "outputimages\\image_9\\char_3_original.png",
+          "clean_path": "outputimages\\image_9\\char_3_clean.png",
+          "bbox": [
+            764,
+            137,
+            930,
+            233
+          ],
+          "confidence": 1.0,
+          "area": 1475,
+          "aspect_ratio": 0.5512820512820513,
+          "centroid": [
+            815.0135593220339,
+            173.57898305084746
+          ]
+        }
+      ]
+    },
+    {
+      "image": "input\\img.png",
+      "characters_extracted": 3,
+      "characters": [
+        {
+          "index": 1,
+          "binary_path": "outputimages\\img\\char_1_binary.png",
+          "original_path": "outputimages\\img\\char_1_original.png",
+          "clean_path": "outputimages\\img\\char_1_clean.png",
+          "bbox": [
+            546,
+            263,
+            699,
+            413
+          ],
+          "confidence": 1.0,
+          "area": 2930,
+          "aspect_ratio": 0.9790209790209791,
+          "centroid": [
+            617.6607508532423,
+            334.68566552901024
+          ]
+        },
+        {
+          "index": 2,
+          "binary_path": "outputimages\\img\\char_2_binary.png",
+          "original_path": "outputimages\\img\\char_2_original.png",
+          "clean_path": "outputimages\\img\\char_2_clean.png",
+          "bbox": [
+            688,
+            283,
+            768,
+            412
+          ],
+          "confidence": 1.0,
+          "area": 1623,
+          "aspect_ratio": 1.7,
+          "centroid": [
+            722.713493530499,
+            344.29081947011707
+          ]
+        },
+        {
+          "index": 3,
+          "binary_path": "outputimages\\img\\char_3_binary.png",
+          "original_path": "outputimages\\img\\char_3_original.png",
+          "clean_path": "outputimages\\img\\char_3_clean.png",
+          "bbox": [
+            763,
+            285,
+            878,
+            412
+          ],
+          "confidence": 1.0,
+          "area": 2186,
+          "aspect_ratio": 1.1142857142857143,
+          "centroid": [
+            817.5814272644099,
+            346.9661482159195
+          ]
+        }
+      ]
+    }
+  ]
+}

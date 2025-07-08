@@ -1,0 +1,5 @@
+Text: Among, Confidence: 0.9992985447740056
+Text: forgotten, Confidence: 0.9745079264183428
+Text: dreams, Confidence: 0.9975171444041255
+Text: follows, Confidence: 0.9997543852277352
+Text: fate, Confidence: 0.999940812587738

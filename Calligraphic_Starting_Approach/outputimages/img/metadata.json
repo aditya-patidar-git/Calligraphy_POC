@@ -1,0 +1,69 @@
+{
+  "source_image": "input\\img.png",
+  "characters_found": 3,
+  "characters": [
+    {
+      "index": 1,
+      "binary_path": "outputimages\\img\\char_1_binary.png",
+      "original_path": "outputimages\\img\\char_1_original.png",
+      "clean_path": "outputimages\\img\\char_1_clean.png",
+      "bbox": [
+        546,
+        263,
+        699,
+        413
+      ],
+      "confidence": 1.0,
+      "area": 2930,
+      "aspect_ratio": 0.9790209790209791,
+      "centroid": [
+        617.6607508532423,
+        334.68566552901024
+      ]
+    },
+    {
+      "index": 2,
+      "binary_path": "outputimages\\img\\char_2_binary.png",
+      "original_path": "outputimages\\img\\char_2_original.png",
+      "clean_path": "outputimages\\img\\char_2_clean.png",
+      "bbox": [
+        688,
+        283,
+        768,
+        412
+      ],
+      "confidence": 1.0,
+      "area": 1623,
+      "aspect_ratio": 1.7,
+      "centroid": [
+        722.713493530499,
+        344.29081947011707
+      ]
+    },
+    {
+      "index": 3,
+      "binary_path": "outputimages\\img\\char_3_binary.png",
+      "original_path": "outputimages\\img\\char_3_original.png",
+      "clean_path": "outputimages\\img\\char_3_clean.png",
+      "bbox": [
+        763,
+        285,
+        878,
+        412
+      ],
+      "confidence": 1.0,
+      "area": 2186,
+      "aspect_ratio": 1.1142857142857143,
+      "centroid": [
+        817.5814272644099,
+        346.9661482159195
+      ]
+    }
+  ],
+  "extraction_settings": {
+    "min_char_area": 100,
+    "max_char_area": 8000,
+    "min_width": 15,
+    "min_height": 20
+  }
+}

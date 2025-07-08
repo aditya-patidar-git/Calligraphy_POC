@@ -1,0 +1,4 @@
+Character index: 10
+Original bounding rect: x=355, y=293, w=101, h=166
+Padded bounding rect: x=350, y=288, w=111, h=176
+Character area: 11252.0
